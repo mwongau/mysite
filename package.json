@@ -6,8 +6,9 @@
 		"dev": "vite dev",
 		"build": "vite build",
 		"preview": "vite preview",
-        "deploy": "vite build && touch build/.nojekyll && git add build/ && git commit -m \"Deploy\" && git subtree push --prefix build origin gh-pages"
-	},
+        
+	        "deploy": "touch build/.nojekyll && gh-pages -d build -t true"
+},
 	"devDependencies": {
 		
         "@sveltejs/adapter-static": "^2.0.2",
@@ -16,7 +17,8 @@
 		"sass": "^1.63.4",
 		"svelte": "^4.2.18",
 		"svelte-preprocess": "^5.0.4",
-		"vite": "^5.3.1"
+		"vite": "^5.3.1",
+                "gh-pages": "^5.0.0"
 	},
 	"type": "module"
 }
