@@ -1,4 +1,4 @@
-import{s as x,n as h}from"../chunks/scheduler.j7AEvm1m.js";import{S as _,i as g,e as m,s as v,c as d,g as k,a as C,b as y,d as u,f as r,t as T,h as w,l as S}from"../chunks/index.De1znC4q.js";function b(f){let i,s,l="Accept cookies",n,p;return{c(){i=T(`This site might use cookies to improve your browsing experience. If you continue to use this \r
+import{s as x,n as h}from"../chunks/scheduler.Dw93JyHj.js";import{S as _,i as g,e as m,s as v,c as d,g as k,a as C,b as y,d as u,f as r,t as T,h as w,l as S}from"../chunks/index.Buw3gK5i.js";function b(f){let i,s,l="Accept cookies",n,p;return{c(){i=T(`This site might use cookies to improve your browsing experience. If you continue to use this \r
 	 site, it will be assumed you agree to the use of cookies. \r
 	 `),s=m("button"),s.textContent=l},l(o){i=w(o,`This site might use cookies to improve your browsing experience. If you continue to use this \r
 	 site, it will be assumed you agree to the use of cookies. \r

@@ -1,4 +1,4 @@
-import{s as T,n as w}from"../chunks/scheduler.j7AEvm1m.js";import{S as E,i as M,e as x,s as v,c as h,g as c,a as C,f as n,d as i}from"../chunks/index.De1znC4q.js";function j(S){let l,P="Privacy policy",r,o,k="My contact",f,a,H="Email: mwong[at]mwongsite.com, replace [at] by @",y,s,g=`If you contact the site author by email, your name, \r
+import{s as T,n as w}from"../chunks/scheduler.Dw93JyHj.js";import{S as E,i as M,e as x,s as v,c as h,g as c,a as C,f as n,d as i}from"../chunks/index.Buw3gK5i.js";function j(S){let l,P="Privacy policy",r,o,k="My contact",f,a,H="Email: mwong[at]mwongsite.com, replace [at] by @",y,s,g=`If you contact the site author by email, your name, \r
 		email address and other information you provide to the \r
 		site author will be stored in the email account of the site \r
 		author.`,_,u,q="Cookies",d,m,z=`This website might use cookies to improve your experience of \r
