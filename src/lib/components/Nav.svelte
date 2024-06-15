@@ -7,9 +7,7 @@
       <li>
         <a href="{base}/">Home</a>
       </li>
-	  <li>
-        <a href="{base}/posts">Blog</a>
-      </li>
+	  
       <li>
         <a href="{base}/cv">CV</a>
       </li>
