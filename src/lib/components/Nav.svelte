@@ -35,5 +35,12 @@ ul {
 
 a {
   text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: green;
 }
 </style>
+
+

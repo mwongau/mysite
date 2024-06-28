@@ -1,5 +1,13 @@
-<div class="MyHeader" style="background-color: Lavender; color: purple">
+<div class="MyHeader">
 <h1>M Wong</h1>
 <h3>My personal site</h3>
 <br />
-</div> 
+</div>
+
+<style>
+.MyHeader {
+  background-color: Lavender; 
+  color: purple; 
+  padding: 5px;
+}  
+</style>
