@@ -4,21 +4,12 @@
 
 <nav>
     <ul>
-      <li>
-        <a href="{base}/">Home</a>
-      </li>
-	  
-      <li>
-        <a href="{base}/cv">CV</a>
-      </li>
-      <li>
-        <a href="{base}/photos">Photos</a>
-      </li>
-	  <li>
-        <a href="{base}/privacy">Privacy</a>
-      </li>
+      <li><a href="{base}/">Home</a></li>
+      <li><a href="{base}/cv">CV</a></li>
+      <li><a href="{base}/photos">Photos</a></li>
+      <li><a href="{base}/privacy">Privacy</a></li>
     </ul>
-  </nav>
+</nav>
 
 <style>
 nav {
@@ -42,5 +33,3 @@ a:hover {
   color: green;
 }
 </style>
-
-

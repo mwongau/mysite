@@ -10,7 +10,7 @@ function select() {
 }
 </script>
 
-<div class="photos">
+<div>
    <h1>Photos</h1>
    <button onclick={select}> <b>Click to select next photo</b></button>
    <br />

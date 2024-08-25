@@ -1,11 +1,18 @@
-<div class="MyHeader">
-<h1>M Wong</h1>
-<h3>My personal site</h3>
+<script>
+const {
+  title = "Welcome",
+  subtitle = "My Personal Site",
+} = $props();
+</script>  
+
+<div class="header">
+<h1>{title}</h1>
+<h3>{subtitle}</h3>
 <br />
 </div>
 
 <style>
-.MyHeader {
+.header {
   background-color: Lavender; 
   color: purple; 
   padding: 5px;
