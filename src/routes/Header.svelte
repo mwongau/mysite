@@ -9,5 +9,6 @@
 	background-color: Lavender;
 	color: purple;
 	padding: 5px;
+	font-family: sans-serif;
 }
 </style>

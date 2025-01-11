@@ -10,10 +10,13 @@
 <div class="nav" style="background-color: AliceBlue;">
 <a href="{base}/">Home</a> &nbsp; &nbsp;
 <a href="{base}/blog">Blog</a> &nbsp; &nbsp;
-
+<a href="{base}/privacy">Privacy</a> &nbsp; &nbsp;
 <br />
 </div>
 
 <slot />
+
+<styles>
+</styles>
 
 
