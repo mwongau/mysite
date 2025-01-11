@@ -17,11 +17,11 @@ const config = {
 	},
 
     preprocess: [mdsvex({
-						  extensions: [".md"],
-						  layout: {
-									blog: 'src/routes/blog/posts.svelte'
+                          extensions: [".md"],
+                          layout: {
+                                    blog: 'src/routes/blog/posts.svelte'
 						  }
-				 })],
+                       })],
     extensions: [".svelte", ".md"]
 };
 
