@@ -15,8 +15,4 @@
 	the site author without giving notice.</p> 
 
 <style>
-h1 {color:purple;}
-h1, h2, p {
-  font-family: sans-serif;
-}
 </style>

@@ -5,8 +5,4 @@
 <p><a href="/mysite/blog/2">Why did I develop this blog</a></p>
 
 <style>
-h1 { color:purple;
-}
-h1, p { font-family: sans-serif;
-}
 </style>

@@ -11,12 +11,7 @@ Javascript, HTML and CSS. This site is hosted by GitHub Pages.</p>
 use this site, it will be assumed you agree to the use of cookies.</p>
 
 <style>
-h1 { color: purple;
-	 font-family: sans-serif;
-}
-.Notice {
-		  background: AliceBlue;
-}
+
 </style>
 
 
