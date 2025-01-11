@@ -11,15 +11,15 @@ const config = {
 		// See https://svelte.dev/docs/kit/adapters for more information about adapters.
 		adapter: adapter(),
 		paths: {
-			//base: dev ? '' : '/sv-site',
-			base: '/sv-site'
+			//base: dev ? '' : '/mysite',
+			base: '/mysite'
 		}
 	},
 
     preprocess: [mdsvex({
 						  extensions: [".md"],
 						  layout: {
-									blog: 'src/routes/blog/post.svelte'
+									blog: 'src/routes/blog/posts.svelte'
 						  }
 				 })],
     extensions: [".svelte", ".md"]

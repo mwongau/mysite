@@ -1,4 +1,4 @@
-<!-- post.svelte -->
+<!-- posts.svelte -->
 <script>
 	export let title;
 	export let date;
