@@ -1,3 +1,5 @@
+## This is my personal site with a markdown blog built by using SvelteKit, Svelte 5, mdsvex, Javascript, HTML and CSS. Hosting is done by Github Pages.
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
