@@ -1,4 +1,4 @@
-import{a as o,t as i}from"../chunks/disclose-version.B-qCt3jN.js";import"../chunks/legacy.BPjdYtAu.js";import{n as a}from"../chunks/runtime.cYZ27Q2V.js";var n=i(`<h1>Privacy policy</h1> <h2>My contact</h2> <p>Email: mwong[at]mwongsite.com, replace [at] by @</p> <p>If you contact the site author by email, your name, 
+import{a as o,t as i}from"../chunks/disclose-version.BTX_x2NV.js";import"../chunks/legacy.Cv9oSN39.js";import{n as a}from"../chunks/runtime.CdaRf0WX.js";var n=i(`<h1>Privacy policy</h1> <h2>My contact</h2> <p>Email: mwong[at]mwongsite.com, replace [at] by @</p> <p>If you contact the site author by email, your name, 
 		email address and other information you provide to the 
 		site author will be stored in the email account of the site 
 		author.</p> <h2>Cookies</h2> <p>This website might use cookies to improve your experience of 
