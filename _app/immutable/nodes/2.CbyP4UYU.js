@@ -1,0 +1,5 @@
+import{a as r,t as c}from"../chunks/disclose-version.HL7s3KQp.js";import{s as o,f as p,t as m,u as l,a as u,c as d,r as h,g as v}from"../chunks/runtime.BYwKKmfA.js";import{d as g,s as f}from"../chunks/render.BQmQbOCY.js";function b(i,e){l(e)}var S=c(`<h1>Home</h1> <div class="Intro"><p>Welcome to my personal site. I am a researcher in computer vision and machine learning with 
+Ph.D in Computer Science, M.Sc & B.Sc(Hons.) in Electronic Engineering. I am also interested in 
+web app development. This site is built by using SvelteKit, Svelte 5, mdsvex (Svelte in markdown), 
+Javascript, HTML and CSS. This site is hosted by GitHub Pages.</p></div> <p class="Notice">This site might use cookies in order to improve the web browsing experience of users. If you continue to 
+use this site, it will be assumed you agree to the use of cookies.</p> <p> </p> <button>+1</button>`,1);function x(i){let e=u(0);var s=S(),t=o(p(s),6),a=d(t);h(t);var n=o(t,2);n.__click=[b,e],m(()=>f(a,`Counter: ${v(e)??""}`)),r(i,s)}g(["click"]);export{x as component};
