@@ -13,6 +13,8 @@
 <div class="nav" style="background-color: AliceBlue; font-family: sans-serif">
 <a href="{base}/">Home</a> &nbsp; &nbsp;
 <a href="{base}/blog">Blog</a> &nbsp; &nbsp;
+<a href="{base}/photos">Photos</a> &nbsp; &nbsp;
+<a href="{base}/cv">CV</a> &nbsp; &nbsp;
 <a href="{base}/privacy">Privacy</a> &nbsp; &nbsp;
 <br />
 </div>
