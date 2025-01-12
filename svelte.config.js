@@ -11,7 +11,8 @@ const config = {
 		adapter: adapter(),
 		paths: {
 			base: '/mysite'
-		}
+		},
+		
 	},
     preprocess: [mdsvex({
                   extensions: [".md"],

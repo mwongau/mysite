@@ -20,10 +20,19 @@ function select() {
    <h1>Photos</h1>
    <button onclick={select}> <b>Next photo</b></button>
    <br />
+
    
    <h4>{count+1}: {des[count]}</h4>
-   <img src="{base}/{images[count]}" alt="alt[count]">   
+   <img src="{base}/{images[count]}" alt="{alt[count]}">   
 </div>
 
 <style>
+img {
+   max-width: 100%;
+   height: auto;
+}
+
+h1 {
+	color: purple;
+}
 </style>
