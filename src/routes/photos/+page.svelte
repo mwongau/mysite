@@ -8,6 +8,8 @@ const alt = [ "acu", "uts", "hps"]
 const images = ["acupy.jpg", "uts-bldg5.jpg", "hps.jpg"]  
 
 let count = $state(0);
+let img = $derived(images[count])
+let altDerived =$derived(alt[count])
 
 function select() {
    count +=1;
@@ -23,7 +25,7 @@ function select() {
 
    
    <h4>{count+1}: {des[count]}</h4>
-   <img src="{base}/{images[count]}" alt="{alt[count]}">   
+   <img src="{base}/{img}" alt="altDerived}">   
 </div>
 
 <style>
