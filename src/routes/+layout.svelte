@@ -20,7 +20,5 @@
 
 <slot />
 
-<style>
-</style>
 
 

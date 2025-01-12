@@ -10,9 +10,6 @@ Javascript, HTML and CSS. This site is hosted by GitHub Pages.</p>
 <p class="Notice">This site might use cookies in order to improve the web browsing experience of users. If you continue to 
 use this site, it will be assumed you agree to the use of cookies.</p>
 
-<style>
-
-</style>
 
 
 
