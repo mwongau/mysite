@@ -1,11 +1,10 @@
 <!-- posts.svelte -->
 <script>
-	export let title;
-	export let date;
+	const {title= '', date= '', children} = $props()
 </script>
 
 <article>
 	<h2>Title: {title}</h2>
 	<h3>Date: {date}</h3>
-	<slot />
+	{@render children()}
 </article>
