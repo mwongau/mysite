@@ -1,0 +1,1 @@
+import{a as p,t as e}from"../chunks/disclose-version.hn53xuVD.js";import"../chunks/legacy.D0GeBfWm.js";import{n as a}from"../chunks/runtime.D_dS6ku-.js";var r=e('<h1>Blog</h1> <p>Select post</p> <p><a href="/mysite/blog/1">About this blog</a></p> <p><a href="/mysite/blog/2">Why did I develop this blog</a></p>',1);function l(o){var t=r();a(6),p(o,t)}export{l as component};
