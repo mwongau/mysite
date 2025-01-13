@@ -1,2 +1,0 @@
-import{a as i,t as p}from"../chunks/disclose-version.C5xapF10.js";import{l as r,s as l}from"../chunks/props.BqhEt7Nv.js";import{P as n}from"../chunks/posts.CWtzMxrZ.js";const d={title:"About this blog",date:"2025-1-11"};var m=p(`<p>This is my personal blog. This blog is built by using SvelteKit, Svelte 5, mdsvex (Svelte in
-markdown), Javascript, HTML and CSS. Hosting is done by Github Pages.</p>`);function v(s,t){const e=r(t,["children","$$slots","$$events","$$legacy"]);n(s,l(()=>e,d,{children:(o,$)=>{var a=m();i(o,a)},$$slots:{default:!0}}))}export{v as component};
