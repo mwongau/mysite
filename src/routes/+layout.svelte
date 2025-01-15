@@ -21,5 +21,9 @@
 
 <slot />
 
+<style>
+.header {color:purple;}
+</style>
+
 
 

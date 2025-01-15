@@ -5,12 +5,12 @@ const des = [ "Australian Catholic University, Strathfield Campus, NSW, Australi
 		"University of Technology Sydney, Building 5",
 		"Homebush Public School, Homebush, NSW, Australia"]
 const alt = [ "acu", "uts", "hps"]
-const images = ["/mysite/acupy.jpg", "/mysite/uts-bldg5.jpg", "/mysite/hps.jpg"]  
+const images = ["acupy.jpg", "uts-bldg5.jpg", "hps.jpg"]  
 
 let count = $state(0);
 
 function select() {
-   count +=1;
+   count++;
    if (count > images.length - 1) 
       count = 0;
 }
@@ -22,16 +22,12 @@ function select() {
    <br />
    
    <h4>{count+1}: {des[count]}</h4>
-   <img src={images[count]} alt={alt[count]} />   
+   <img src="{base}/{images[count]}" alt="{alt[count]}" />   
 </div>
 
 <style>
 img {
    max-width: 100%;
    height: auto;
-}
-
-h1 {
-	color: purple;
 }
 </style>
