@@ -2,8 +2,8 @@
 import { base } from "$app/paths";
 
 const des = [ "Australian Catholic University, Strathfield Campus, NSW, Australia",
-		"University of Technology Sydney, Building 5",
-		"Homebush Public School, Homebush, NSW, Australia"]
+	      "University of Technology Sydney, Building 5",
+	      "Homebush Public School, Homebush, NSW, Australia"]
 const alt = [ "acu", "uts", "hps"]
 const images = ["acupy.jpg", "uts-bldg5.jpg", "hps.jpg"]  
 
@@ -11,8 +11,8 @@ let count = $state(0);
 
 function select() {
    count++;
-   if (count > images.length - 1) 
-      count = 0;
+   count = count % images.length; 
+      
 }
 </script>
 
@@ -30,4 +30,5 @@ img {
    max-width: 100%;
    height: auto;
 }
+h1 {color: purple;}
 </style>

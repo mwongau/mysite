@@ -15,4 +15,5 @@
 	the site author without giving notice.</p> 
 
 <style>
+h1 {color: purple;}
 </style>
