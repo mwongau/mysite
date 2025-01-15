@@ -1,4 +1,4 @@
-import{a as t,t as o}from"../chunks/disclose-version.C2DMFMn4.js";import"../chunks/legacy.D_we89DH.js";import{n as s}from"../chunks/runtime.BYKSLZjM.js";var n=o(`<h1>Home</h1> <div class="Intro"><p>Welcome to my personal site. I am a researcher in computer vision and machine learning with 
+import{a as t,t as o}from"../chunks/disclose-version.DhLXot2s.js";import"../chunks/legacy.fK4FjVhq.js";import{n as s}from"../chunks/runtime.Cgt2_e_U.js";var n=o(`<h1>Home</h1> <div class="Intro"><p>Welcome to my personal site. I am a researcher in computer vision and machine learning with 
 Ph.D in Computer Science, M.Sc & B.Sc(Hons.) in Electronic Engineering. I am also interested in 
 web app development. This site is built by using SvelteKit, Svelte 5, mdsvex (Svelte in markdown), 
 Javascript, HTML and CSS. This site is hosted by GitHub Pages.</p></div> <p class="Notice">This site might use cookies in order to improve the web browsing experience of users. If you continue to 
